@@ -1,10 +1,4 @@
-# web_development_3
-Projetos básicos desenvolvido em Django com o intuito de obter as primeiras impressões do framework
-
-## First Project
-Projeto simples de iniciação por meio do framework Django, utilizando templates diferentes para averiguar feriados.
-
-## Check Hollyday SQLite
+# Check Hollyday SQLite
 Projeto elaborado por meio do Framework Django, que através do consumo da API `holidayapi.com` realiza o upload de feriados para o banco de dados, e por meio de um input do usuário verifica se o dia em específico é feriado ou não em algum pais.
 
 #### Inicialização
